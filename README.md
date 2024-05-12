@@ -10,8 +10,6 @@
     </a>
 </p>
 
-[TOC]
-
 # 一、项目介绍
 
 [happy-birthday](https://github.com/springbear2020/happy-birthday) 是基于 `jQuery + Bootstrap` 构建的响应式生日快乐祝福网站。在 [原仓库](https://github.com/ProgrammerGaurav/happy-birthday) 基础上优化工程结构、修复已知问题，增加额外功能。
